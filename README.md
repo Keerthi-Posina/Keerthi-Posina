@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Keerthi<br>👀 I’m interested in exploring Tech<br>🌱 I’m currently pursuing B.Tech in CSE<br>💞️ I’m looking to collaborate on DataScience Projects<br>📫 How to reach me saikeethiposina@gmail.com<br>😄 Pronouns: she/her
+👋 Hi, I’m Keerthi<br>👀 I’m interested in exploring Tech<br>🌱 I’m currently pursuing B.Tech in CSE<br>💞️ I’m looking to collaborate on GenAI Projects<br>📫 How to reach me saikeethiposina@gmail.com<br>😄 Pronouns: she/her
 
 
 # 💻 Tech Stack:
